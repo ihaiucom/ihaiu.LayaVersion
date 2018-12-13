@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="458,31" extention="Label">
+  <controller name="buttonVisiable" alias="按钮是否显示" exported="true" pages="0,false,1,true" selected="1">
+    <remark page="0" value="隐藏"/>
+    <remark page="1" value="显示"/>
+  </controller>
+  <displayList>
+    <text id="n16_jw3e" name="title" xy="0,2" size="111,27" fontSize="20" color="#000033" align="right" autoSize="none" text="字段名:">
+      <relation target="" sidePair="left-left,middle-middle"/>
+    </text>
+    <component id="n18_jw3e" name="value" src="jw3e12" fileName="Input/TextInput.xml" xy="122,0" size="233,30">
+      <relation target="" sidePair="middle-middle"/>
+    </component>
+    <component id="n20_jw3e" name="button" src="jw3el" fileName="Button/Button.xml" xy="368,3">
+      <gearDisplay controller="buttonVisiable" pages="1"/>
+      <Button title="修改"/>
+    </component>
+  </displayList>
+</component>

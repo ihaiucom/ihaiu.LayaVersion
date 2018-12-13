@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,30">
+  <displayList>
+    <image id="n1_oulr" name="n1" src="oulr2" fileName="images_gui/bg_menu_bar.png" xy="0,0" size="1024,30">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n2_jw3e" name="list" xy="0,0" size="1024,30" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://4yrap86wjw3e6" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item title="File" name="File"/>
+    </list>
+  </displayList>
+</component>

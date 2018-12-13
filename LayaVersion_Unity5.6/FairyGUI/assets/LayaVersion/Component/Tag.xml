@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="260,70" extention="Label">
+  <displayList>
+    <loader id="n6_jw3e" name="icon" xy="0,0" size="840,245" scale="0.3,0.3" url="ui://4yrap86wjw3eu"/>
+    <text id="n8_jw3e" name="title" xy="85,19" size="53,31" fontSize="24" color="#ffffff" text="设置"/>
+  </displayList>
+</component>

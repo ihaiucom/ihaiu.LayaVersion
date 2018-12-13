@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4yrap86w" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="oulr0" name="VersionWindow.xml" path="/" exported="true"/>
+    <image id="oulr1" name="bg_writer_10x10.png" path="/images_gui/" scale="9grid" scale9grid="3,3,6,6"/>
+    <image id="oulr2" name="bg_menu_bar.png" path="/images_gui/" scale="9grid" scale9grid="4,6,8,12"/>
+    <component id="jw3e4" name="MainMenuBar.xml" path="/Component/"/>
+    <component id="jw3e6" name="MainMenuButton.xml" path="/Button/" exported="true"/>
+    <image id="jw3e8" name="bg_menu_bar_2.png" path="/images_gui/" scale="9grid" scale9grid="3,8,3,16"/>
+    <component id="jw3e9" name="ProjectMenuBar.xml" path="/Component/"/>
+    <component id="jw3eb" name="ClosableTabButton.xml" path="/Button/" exported="true"/>
+    <component id="jw3ec" name="TabCloseButton.xml" path="/Button/"/>
+    <component id="jw3ed" name="FileTabButton.xml" path="/Button/" exported="true"/>
+    <component id="jw3ee" name="ContentMenuBar.xml" path="/Component/"/>
+    <image id="jw3ef" name="bg_black_20x20.png" path="/images_gui/" scale="9grid" scale9grid="5,5,10,10"/>
+    <component id="jw3eg" name="ContentTabButton.xml" path="/Button/" exported="true"/>
+    <component id="jw3eh" name="PageBody.xml" path="/"/>
+    <component id="jw3ei" name="MergePage.xml" path="/Page/"/>
+    <component id="jw3ej" name="Checkbox.xml" path="/Checkbox/" exported="true"/>
+    <component id="jw3ek" name="BigButton.xml" path="/Button/" exported="true"/>
+    <component id="jw3el" name="Button.xml" path="/Button/" exported="true"/>
+    <component id="jw3em" name="ExeItem.xml" path="/Component/"/>
+    <component id="jw3en" name="ExeList.xml" path="/Component/"/>
+    <component id="jw3eo" name="AppPage.xml" path="/Page/"/>
+    <image id="jw3eu" name="tag_1.png" path="/images_gui/"/>
+    <image id="jw3ev" name="tag_2.png" path="/images_gui/"/>
+    <component id="jw3ew" name="Tag.xml" path="/Component/"/>
+    <component id="jw3ex" name="PlatformRadioButton.xml" path="/RadioButton/" exported="true"/>
+    <image id="jw3ey" name="icon_android.png" path="/images_icon/"/>
+    <image id="jw3ez" name="icon_ios.png" path="/images_icon/"/>
+    <image id="jw3e10" name="icon_web_chrome.png" path="/images_icon/"/>
+    <component id="jw3e11" name="NumericInput.xml" path="/Input/" exported="true"/>
+    <component id="jw3e12" name="TextInput.xml" path="/Input/" exported="true"/>
+    <component id="jw3e13" name="PatchPage.xml" path="/Page/"/>
+    <component id="jw3e14" name="WebPage.xml" path="/Page/"/>
+    <component id="jw3e15" name="ProductSettingPage.xml" path="/Page/"/>
+    <component id="jw3e16" name="InputItem.xml" path="/Component/"/>
+    <component id="jw3e17" name="CreateProductPage.xml" path="/Page/"/>
+  </resources>
+  <publish name="LayaVersion" genCode="true"/>
+</packageDescription>

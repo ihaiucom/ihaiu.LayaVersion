@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,40">
+  <displayList>
+    <image id="n3_jw3e" name="n3" src="jw3e8" fileName="images_gui/bg_menu_bar_2.png" xy="0,0" size="1024,40">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n4_jw3e" name="list" xy="0,1" size="1024,38" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://4yrap86wjw3ed" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item title="MovieInc.Develop" name="MovieInc.Develop"/>
+      <item title="MovieInc.Release" name="MovieInc.Release"/>
+    </list>
+  </displayList>
+</component>

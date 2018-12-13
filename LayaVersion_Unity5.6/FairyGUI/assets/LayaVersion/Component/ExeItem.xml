@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,30">
+  <displayList>
+    <component id="n1_jw3e" name="n1" src="jw3ej" fileName="Checkbox/Checkbox.xml" xy="5,1" size="104,26">
+      <relation target="" sidePair="left-left,middle-middle"/>
+      <Button title="生成Fgui代码"/>
+    </component>
+    <component id="n4_jw3e" name="n4" src="jw3el" fileName="Button/Button.xml" xy="390,2" size="100,25">
+      <relation target="" sidePair="right-right,middle-middle"/>
+      <Button title="执行"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,145" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n6_jw3e" name="icon" xy="13,12" size="100,100"/>
+    <image id="n1" name="n1" src="jw3e1e" fileName="images/a1.png" pkg="4obaefrz" xy="53,122" size="20,20" aspect="true">
+      <gearDisplay controller="button" pages="0,1"/>
+    </image>
+    <image id="n3" name="n3" src="jw3e1d" fileName="images/a2.png" pkg="4obaefrz" xy="53,122" size="20,20" aspect="true">
+      <gearDisplay controller="button" pages="2,3"/>
+    </image>
+    <image id="n2" name="n2" src="jw3e1c" fileName="images/a3.png" pkg="4obaefrz" xy="59,127" size="8,10" aspect="true">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

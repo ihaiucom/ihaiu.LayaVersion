@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,500">
+  <displayList>
+    <graph id="n5_jw3e" name="n5" xy="0,0" size="600,500" type="rect" lineColor="#ff5e5e5e" fillColor="#ffbababa">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <list id="n6_jw3e" name="list" xy="0,0" size="600,500" overflow="scroll" margin="10,10,10,10" lineGap="10" defaultItem="ui://4yrap86wjw3em">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

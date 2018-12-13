@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,22" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n5" name="n5" src="jw3e24" fileName="images/a5.png" pkg="4obaefrz" xy="0,0" size="200,22">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="height-height,width-width"/>
+    </image>
+    <image id="n4" name="n4" src="jw3e25" fileName="images/a7.png" pkg="4obaefrz" xy="0,0" size="200,22">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="height-height,width-width"/>
+    </image>
+    <text id="n2" name="title" xy="3,3" size="10,19" fontSize="12" color="#bdbdbd" align="center" vAlign="middle" singleLine="true" text=""/>
+    <component id="n3" name="closeButton" src="jw3ec" fileName="Button/TabCloseButton.xml" xy="179,1">
+      <gearDisplay controller="button" pages="1,2,3"/>
+      <relation target="" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+  <relation target="n2" sidePair="width-width"/>
+</component>

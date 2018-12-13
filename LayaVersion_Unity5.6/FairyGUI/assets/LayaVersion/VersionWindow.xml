@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,768">
+  <displayList>
+    <image id="n0_oulr" name="bg" src="oulr1" fileName="images_gui/bg_writer_10x10.png" xy="0,0" size="1024,768" color="#999999">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_oulr" name="mainMenuBar" src="jw3e4" fileName="Component/MainMenuBar.xml" xy="0,0">
+      <relation target="" sidePair="width-width,top-top"/>
+    </component>
+    <component id="n3_jw3e" name="projectMenuBar" src="jw3e9" fileName="Component/ProjectMenuBar.xml" xy="0,30">
+      <relation target="" sidePair="width-width,top-top"/>
+    </component>
+    <component id="n4_jw3e" name="contentMenuBar" src="jw3ee" fileName="Component/ContentMenuBar.xml" xy="0,70">
+      <relation target="" sidePair="left-left,height-height"/>
+    </component>
+    <component id="n5_jw3e" name="pageBody" src="jw3eh" fileName="PageBody.xml" xy="300,70">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n6_jw3e" name="createProductPage" src="jw3e17" fileName="Page/CreateProductPage.xml" xy="0,70" size="1024,698">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+</component>

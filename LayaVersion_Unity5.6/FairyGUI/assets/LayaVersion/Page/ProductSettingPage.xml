@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,698" overflow="scroll">
+  <displayList>
+    <graph id="n21_jw3e" name="n21" xy="28,85" size="671,346" type="rect" lineColor="#ff666666" fillColor="#ffbababa"/>
+    <component id="n6_jw3e" name="n6" src="jw3ew" fileName="Component/Tag.xml" xy="9,9">
+      <Label title="项目设置"/>
+    </component>
+    <component id="n16_jw3e" name="n16" src="jw3e16" fileName="Component/InputItem.xml" xy="105,104" controller="buttonVisiable,0"/>
+    <component id="n32_jw3e" name="createButton" src="jw3ek" fileName="Button/BigButton.xml" xy="263,444" size="198,58">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="创建"/>
+    </component>
+  </displayList>
+</component>

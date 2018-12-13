@@ -1,0 +1,16 @@
+{
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"UI",
+		"codePath":"E:\\zengfeng\\github\\ihaiu.LayaVersion\\LayaVersion_Unity5.6\\Assets\\LayaVersion\\FguiCode",
+		"codeType":"",
+		"getMemberByName":false,
+		"ignoreNoname":false,
+		"memberNamePrefix":"m_",
+		"packageName":""
+	},
+	"compressDesc":true,
+	"fileExtension":"",
+	"packageCount":2,
+	"path":"E:\\zengfeng\\github\\ihaiu.LayaVersion\\LayaVersion_Unity5.6\\Assets\\LayaVersion\\Resources\\UI"
+}

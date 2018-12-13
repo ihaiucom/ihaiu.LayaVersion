@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,698">
+  <displayList>
+    <component id="n6_jw3e" name="mergePage" src="jw3ei" fileName="MergePage.xml" xy="0,0" hideByEditor="true" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n8_jw3e" name="appPage" src="jw3eo" fileName="AppPage.xml" xy="0,0" hideByEditor="true" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n9_jw3e" name="patchPage" src="jw3e13" fileName="PatchPage.xml" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n10_jw3e" name="webPage" src="jw3e14" fileName="WebPage.xml" xy="0,0"/>
+  </displayList>
+</component>

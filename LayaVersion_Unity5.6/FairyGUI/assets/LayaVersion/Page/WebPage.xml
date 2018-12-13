@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,698" overflow="scroll">
+  <displayList>
+    <graph id="n21_jw3e" name="n21" xy="28,85" size="671,78" type="rect" lineColor="#ff666666" fillColor="#ffbababa"/>
+    <component id="n2_jw3e" name="exeSelectedButton" src="jw3ek" fileName="Button/BigButton.xml" xy="470,251" size="198,58">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="一键执行"/>
+    </component>
+    <component id="n5_jw3e" name="exeList" src="jw3en" fileName="Component/ExeList.xml" xy="70,316" size="600,259">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n6_jw3e" name="n6" src="jw3ew" fileName="Component/Tag.xml" xy="9,9"/>
+    <component id="n10_jw3e" name="n10" src="jw3ew" fileName="Component/Tag.xml" xy="17,214">
+      <Label title="生成版本" icon="ui://4yrap86wjw3ev"/>
+    </component>
+    <text id="n16_jw3e" name="n16" xy="73,109" size="110,31" fontSize="24" color="#000033" text="Web目录:"/>
+    <component id="n18_jw3e" name="version" src="jw3e12" fileName="Input/TextInput.xml" xy="191,109" size="474,30"/>
+  </displayList>
+</component>

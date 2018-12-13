@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,698" overflow="scroll">
+  <displayList>
+    <image id="n33_jw3e" name="bg" src="oulr1" fileName="images_gui/bg_writer_10x10.png" xy="0,0" size="724,698" color="#999999">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <graph id="n21_jw3e" name="n21" xy="28,85" size="671,346" type="rect" lineColor="#ff666666" fillColor="#ffbababa">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <component id="n6_jw3e" name="n6" src="jw3ew" fileName="Component/Tag.xml" xy="9,9">
+      <Label title="创建项目"/>
+    </component>
+    <component id="n16_jw3e" name="n16" src="jw3e16" fileName="Component/InputItem.xml" xy="105,108" controller="buttonVisiable,0"/>
+    <component id="n32_jw3e" name="createButton" src="jw3ek" fileName="Button/BigButton.xml" xy="150,445" size="198,58">
+      <relation target="" sidePair="center-center"/>
+      <Button title="创建"/>
+    </component>
+    <component id="n34_jw3e" name="cancelButton" src="jw3ek" fileName="Button/BigButton.xml" xy="375,446" size="198,58">
+      <relation target="" sidePair="center-center"/>
+      <Button title="取消"/>
+    </component>
+  </displayList>
+</component>

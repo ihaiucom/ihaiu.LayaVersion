@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,698">
+  <displayList>
+    <graph id="n6_jw3e" name="n6" xy="0,0" size="300,698" type="rect" lineColor="#ff1f1f1f" fillColor="#ff424242">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <list id="n5_jw3e" name="list" xy="0,0" size="300,698" overflow="scroll" defaultItem="ui://4yrap86wjw3eg">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item title="合并版本" name="合并版本"/>
+      <item title="应用版本" name="应用版本"/>
+      <item title="补丁版本" name="补丁版本"/>
+      <item title="网页版本" name="网页版本"/>
+      <item title="项目设置" name="项目设置"/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,698" overflow="scroll">
+  <displayList>
+    <graph id="n21_jw3e" name="n21" xy="28,85" size="671,346" type="rect" lineColor="#ff666666" fillColor="#ffbababa"/>
+    <component id="n2_jw3e" name="exeSelectedButton" src="jw3ek" fileName="Button/BigButton.xml" xy="470,536" size="198,58">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="一键执行"/>
+    </component>
+    <component id="n5_jw3e" name="exeList" src="jw3en" fileName="Component/ExeList.xml" xy="73,601" size="600,259">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n6_jw3e" name="n6" src="jw3ew" fileName="Component/Tag.xml" xy="9,9"/>
+    <component id="n10_jw3e" name="n10" src="jw3ew" fileName="Component/Tag.xml" xy="17,499">
+      <Label title="生成版本" icon="ui://4yrap86wjw3ev"/>
+    </component>
+    <list id="n14_jw3e" name="n14" xy="68,91" size="599,145" layout="row" overflow="hidden" colGap="20" defaultItem="ui://4yrap86wjw3ex" align="center" vAlign="middle">
+      <item title="iOS" icon="ui://4yrap86wjw3ez" name="iOS"/>
+      <item title="Android" icon="ui://4yrap86wjw3ey" name="Android"/>
+    </list>
+    <text id="n16_jw3e" name="n16" xy="84,285" size="60,31" fontSize="24" color="#000033" text="版本:"/>
+    <component id="n18_jw3e" name="version" src="jw3e12" fileName="Input/TextInput.xml" xy="160,285" size="279,30">
+      <Label title="v1.33.00.00"/>
+    </component>
+    <text id="n19_jw3e" name="n19" xy="83,337" size="60,31" fontSize="24" color="#000033" text="测试:"/>
+    <component id="n20_jw3e" name="n20" src="jw3ej" fileName="Checkbox/Checkbox.xml" xy="160,338" size="44,26">
+      <Button title="是"/>
+    </component>
+    <text id="n22_jw3e" name="n22" xy="82,383" size="60,31" fontSize="24" color="#000033" text="内网:"/>
+    <component id="n23_jw3e" name="n23" src="jw3ej" fileName="Checkbox/Checkbox.xml" xy="159,384" size="44,26">
+      <Button title="是"/>
+    </component>
+    <component id="n28_jw3e" name="exeList" src="jw3en" fileName="Component/ExeList.xml" xy="91,1020" size="600,259">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n29_jw3e" name="n29" src="jw3ew" fileName="Component/Tag.xml" xy="17,918">
+      <Label title="推送" icon="ui://4yrap86wjw3ev"/>
+    </component>
+    <component id="n30_jw3e" name="exeSelectedButton" src="jw3ek" fileName="Button/BigButton.xml" xy="470,946" size="198,58">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="一键执行"/>
+    </component>
+  </displayList>
+</component>
